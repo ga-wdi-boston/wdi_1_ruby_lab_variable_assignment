@@ -1,8 +1,19 @@
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+
 # Ruby Lab - Variable Assignment & Predicting Program Output
 
 Understanding the flow of a program, expressions and variable assignment is an essential skill for success as a developer. To practice this, we must learn to think about the code in a manner similar to the computer/Ruby interpeter.
 
 Don't expect that you will get 100% of the questions right. It's okay if you don't know an answer - just write that you don't know or are unsure. It's very helpful if you explain which part you're unclear about. Don't overthink it - spend about 2-3 minutes on each question, and if you're not sure, just write that and move on to the next one.
+
+## Objectives
+
+This exercise aims to practice the following:
+
+- Variable assignment
+- Reading code
+- Using git
+- `if` statements and logic
 
 ## Instructions
 
