@@ -202,3 +202,7 @@ puts x.to_f
 Imagine that you take the code from this question, save it to a file called `numbers.rb`, and run `ruby numbers.rb` in your Terminal.
 
 What would be the output? Explain your answer.
+
+# Additional Resources
+
+- [Ruby Official documentation on Assignment](http://ruby-doc.org/core-2.2.0/doc/syntax/assignment_rdoc.html)
